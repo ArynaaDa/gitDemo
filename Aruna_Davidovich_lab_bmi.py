@@ -1,4 +1,5 @@
 # Small project BMI.
+# TEST for GIT
 
 def bmi (weight, height):
     '''
